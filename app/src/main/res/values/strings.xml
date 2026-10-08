@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dedicated VPN</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_connected">Protected &amp; Connected</string>
+    <string name="status_disconnecting">Disconnecting…</string>
+    <string name="status_error">Connection Error</string>
+    <string name="connect">Connect to Dedicated Server</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="server_title">Target Endpoint</string>
+    <string name="server_ip">203.189.226.237</string>
+    <string name="server_port">51820</string>
+    <string name="endpoint_locked_notice">Single Hardcoded Server (Locked)</string>
+    <string name="kill_switch_active">Kill Switch: Active (Blocks leaks)</string>
+    <string name="notification_channel_name">VPN Tunnel Status</string>
+    <string name="notification_channel_desc">Shows ongoing VPN connection status and traffic stats</string>
+    <string name="notification_title_connected">VPN Active: 203.189.226.237</string>
+    <string name="notification_title_disconnected">VPN Disconnected</string>
+    <string name="notification_action_disconnect">Disconnect</string>
+</resources>
